@@ -1,0 +1,9 @@
+{
+  "name": "2hao",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
